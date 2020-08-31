@@ -1,0 +1,28 @@
+.title{
+    flex: 1 1 30%;  
+}
+.header{
+    display: flex;
+    align-items: center;
+    max-width: 800px;
+    font-weight: bold;
+    border-bottom: 1px solid black;
+    margin: 0px auto;
+}
+.menu 
+ul 
+li{
+    display: inline-block;
+    padding: 0px 10px;
+    list-style-type: none;
+    margin: 0%;
+    padding: 0%;
+    align-items: right;
+}
+
+
+.container{
+    max-width: 800px;
+    margin: 0px auto;
+    line-height: 30px;
+}
